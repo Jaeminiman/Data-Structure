@@ -45,3 +45,12 @@ patternCommnad : ?(pattern string)을 input으로 하여 해당 String이 있는
 1. 자료구조를 Generic type으로 구현
 
 기본 자료구조 : Hashtable의 item을 AVLTree로, AVLTree의 Node의 Item을 LinkedList로 하고 LinkedList이 필요한 이유는 동일한 6자리 word가 중복 위치할 수 있어서 그 위치 정보를 모두 담기 위함이다.
+
+# HW6 - Subway
+
+1. input으로 지하철 역 Node와 역 간 Edge 정보를 바탕으로 데이터 베이스 만들기
+2. 출발역과 도착역 입력시 데이터 베이스를 바탕으로 최단 경로 산출 알고리즘 (Dijkstra Algorithm 사용)
+
+Subway.java 코드 전부 스스로 작성
+
+사용한 자료구조 : Hashtable, LinkedList, ArrayList
