@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b24edb2b-afd3-4ccc-a3ff-cb92e4df238d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27PSTNQgqKIIMVenQA9Id58ZO12" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b24edb2b-afd3-4ccc-a3ff-cb92e4df238d" name="Changes" comment="" />
+      <created>1649220239691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649220239691</updated>
+      <workItem from="1649220244914" duration="20000" />
+      <workItem from="1649306189032" duration="27000" />
+      <workItem from="1649748658174" duration="19000" />
+      <workItem from="1649813866940" duration="8000" />
+      <workItem from="1649813896270" duration="42000" />
+      <workItem from="1649847049713" duration="1000" />
+      <workItem from="1649858060664" duration="1000" />
+      <workItem from="1649858080352" duration="496000" />
+      <workItem from="1649908264671" duration="874000" />
+      <workItem from="1649917285173" duration="121000" />
+      <workItem from="1649917422695" duration="854000" />
+      <workItem from="1650012210809" duration="25000" />
+      <workItem from="1650019190805" duration="702000" />
+      <workItem from="1650020433111" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
